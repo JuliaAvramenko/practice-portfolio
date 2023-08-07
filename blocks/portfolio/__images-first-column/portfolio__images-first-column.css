@@ -1,0 +1,13 @@
+.portfolio__images-first-column {
+    display: flex;
+    flex-direction: column;
+    row-gap: 26px;
+}
+
+@media (max-width: 600px) {
+    .portfolio__images-first-column {
+        max-width: 169px;
+        row-gap: 12px;
+
+    }
+}

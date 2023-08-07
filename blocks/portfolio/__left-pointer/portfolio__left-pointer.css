@@ -1,0 +1,10 @@
+.portfolio__left-pointer {
+    padding: 0;
+    margin: 0;
+    width: 24px;
+    height: 24px;
+    background-image: url(../../../images/left.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFAF2;
+}

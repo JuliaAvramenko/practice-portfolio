@@ -1,0 +1,17 @@
+.portfolio__container {
+    display: flex;
+    column-gap: 125px;
+    flex-direction: column;
+    width: 100%;
+
+
+}
+
+@media (max-width: 600px) {
+    .portfolio__container {
+        align-items: center;
+        justify-content: center;
+
+
+    }
+}

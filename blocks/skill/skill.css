@@ -1,0 +1,22 @@
+.skill {
+    background-color: #FFFAF2;
+
+    padding-top: 93px;
+    padding-bottom: 145px;
+    display: flex;
+    column-gap: 125px;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    .skill {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+
+
+    }
+}

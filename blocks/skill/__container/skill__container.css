@@ -1,0 +1,7 @@
+.skill__container {
+    display: flex;
+    column-gap: 125px;
+    margin-left: auto;
+    margin-right: auto;
+
+}

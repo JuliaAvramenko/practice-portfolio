@@ -1,0 +1,22 @@
+.hero-section__navigation {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 165px;
+    padding-right: 166px;
+    padding-top: 93px;
+    max-width: 1109px;
+    margin-bottom: 145px;
+
+
+}
+
+@media (max-width: 600px) {
+    .hero-section__navigation {
+        margin-bottom: 50px;
+        font-size: 13px;
+        line-height: 16px;
+        align-items: center;
+        padding-top: 36px;
+        flex-direction: column;
+    }
+}

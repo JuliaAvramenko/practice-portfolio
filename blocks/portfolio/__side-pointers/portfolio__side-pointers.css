@@ -1,0 +1,4 @@
+.portfolio__side-pointers {
+    display: flex;
+    column-gap: 14px;
+}

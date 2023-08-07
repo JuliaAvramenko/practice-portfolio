@@ -1,0 +1,20 @@
+.skill__table-description {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    height: 25px;
+    display: flex;
+
+}
+
+@media (max-width: 600px) {
+    .skill__table-description {
+
+        font-size: 12px;
+
+    }
+}

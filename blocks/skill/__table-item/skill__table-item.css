@@ -1,0 +1,14 @@
+.skill__table-item {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+
+@media (max-width: 600px) {
+    .skill__table-item {
+        font-size: 12px;
+
+    }
+}

@@ -1,0 +1,16 @@
+.contact__back-to-top {
+    margin-right: 80px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column-reverse;
+    position: sticky;
+    bottom: 0;
+
+
+}
+
+@media (max-width: 600px) {
+    .contact__back-to-top {
+        margin-right: 10px;
+    }
+}

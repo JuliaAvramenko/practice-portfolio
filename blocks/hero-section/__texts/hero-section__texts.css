@@ -1,0 +1,18 @@
+.hero-section__texts {
+    max-width: 694px;
+    width: 100%;
+    max-height: 261px;
+    padding-left: 165px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+@media (max-width: 600px) {
+    .hero-section__texts {
+        align-items: center;
+        padding-left: 0;
+
+    }
+}

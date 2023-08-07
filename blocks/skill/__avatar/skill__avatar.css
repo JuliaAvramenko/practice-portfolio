@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+    .skill__avatar {
+        width: 224px;
+        height: 218px;
+        margin-bottom: 25px;
+
+    }
+}

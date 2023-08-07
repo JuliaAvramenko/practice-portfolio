@@ -1,0 +1,39 @@
+.hero-section {
+    background-image: url(../../images/bg.png);
+    margin: 0;
+    padding: 0;
+    max-width: 1440px;
+    width: 100%;
+    height: 768px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+
+
+
+}
+
+.hero-section::before {
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    position: absolute;
+    content: "";
+    background-color: rgb(87, 29, 29);
+    opacity: 0.4;
+}
+
+@media (max-width: 600px) {
+    .hero-section {
+        min-width: 373px;
+        height: 275px;
+        align-items: center;
+        justify-content: center;
+
+    }
+}

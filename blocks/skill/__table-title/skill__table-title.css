@@ -1,0 +1,16 @@
+.skill__table-title {
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+
+}
+
+@media (max-width: 600px) {
+    .skill__table-title {
+        font-size: 12px;
+        line-height: 25px;
+    }
+}

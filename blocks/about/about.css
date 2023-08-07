@@ -1,0 +1,11 @@
+.about {
+    min-height: 544px;
+
+}
+
+@media (max-width: 600px) {
+    .about {
+        min-height: 310px;
+    }
+
+}

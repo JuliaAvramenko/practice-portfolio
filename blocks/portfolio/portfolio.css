@@ -1,0 +1,23 @@
+.portfolio {
+    padding-left: 165px;
+    padding-right: 165px;
+    padding-top: 93px;
+    padding-bottom: 145px;
+    display: flex;
+    column-gap: 125px;
+}
+
+@media (max-width: 600px) {
+    .portfolio {
+        padding-left: 34px;
+        padding-right: 33px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        column-gap: 0px;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+
+
+    }
+}

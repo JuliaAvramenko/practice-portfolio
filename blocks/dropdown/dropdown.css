@@ -1,0 +1,23 @@
+.dropdown {
+    display: none;
+
+}
+
+/* Контейнер <div> - необходим для размещения всплывающег содержимого */
+
+
+@media (max-width: 600px) {
+
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    /* Показывать всплывающее меню при наведении курсора */
+    .dropdown:hover .dropdown__list {
+        display: block;
+
+
+    }
+}

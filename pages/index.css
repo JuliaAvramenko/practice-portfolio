@@ -1,0 +1,87 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/pages/pages.css);
+
+@import url(../blocks/hero-section/__item/hero-section__item.css);
+@import url(../blocks/hero-section/__logo/hero-section__logo.css);
+@import url(../blocks/hero-section/__menu/hero-section__menu.css);
+@import url(../blocks/hero-section/__navigation/hero-section__navigation.css);
+@import url(../blocks/hero-section/hero-section.css);
+@import url(../blocks/hero-section/__texts/hero-section__texts.css);
+@import url(../blocks/hero-section/__title/hero-section__title.css);
+@import url(../blocks/hero-section/__subtitle/hero-section__subtitle.css);
+@import url(../blocks/hero-section/__link/hero-section__link.css);
+
+@import url(../blocks/about/__paragraph/about__paragraph.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/about.css);
+
+@import url(../blocks/skill/skill.css);
+@import url(../blocks/skill/__avatar/skill__avatar.css);
+@import url(../blocks/skill/__empty/skill__empty.css);
+@import url(../blocks/skill/__table/skill__table.css);
+@import url(../blocks/skill/__grid/skill__grid.css);
+@import url(../blocks/skill/__image/skill__image.css);
+@import url(../blocks/skill/__title/skill__title.css);
+@import url(../blocks/skill/__table-description/skill__table-description.css);
+@import url(../blocks/skill/__table-item/skill__table-item.css);
+@import url(../blocks/skill/__table-list-description/skill__table-list-description.css);
+@import url(../blocks/skill/__table-list/skill__table-list.css);
+@import url(../blocks/skill/__table-paragraph/skill__table-paragraph.css);
+@import url(../blocks/skill/__table-table/skill__table-table.css);
+@import url(../blocks/skill/__table-title/skill__table-title.css);
+@import url(../blocks/skill/_bar_front/skill_bar_front.css);
+@import url(../blocks/skill/__table-description-long/skill__table-description-long.css);
+@import url(../blocks/skill/__table-description-short/skill__table-description-short.css);
+
+@import url(../blocks/skill/_dark_long/skill_dark_long.css);
+@import url(../blocks/skill/_dark_medium/skill_dark_medium.css);
+@import url(../blocks/skill/_dark_short/skill_dark_short.css);
+@import url(../blocks/skill/_light_long/skill_light_long.css);
+@import url(../blocks/skill/_light_medium/skill_light_medium.css);
+@import url(../blocks/skill/_light_short/skill_light_short.css);
+
+@import url(../blocks/contact/__back-to-top/contact__back-to-top.css);
+@import url(../blocks/contact/__details/contact__details.css);
+@import url(../blocks/contact/__item/contact__item.css);
+@import url(../blocks/contact/__link/contact__link.css);
+@import url(../blocks/contact/__lists/contact__lists.css);
+@import url(../blocks/contact/__network/contact__network.css);
+@import url(../blocks/contact/__portfolio-link/contact__portfolio-link.css);
+@import url(../blocks/contact/__social-networks/contact__social-networks.css);
+@import url(../blocks/contact/__title/contact__title.css);
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/contact/__up-pointer/contact__up-pointer.css);
+
+@import url(../blocks/container/container.css);
+
+@import url(../blocks/portfolio/portfolio.css);
+@import url(../blocks/portfolio/__about/portfolio__about.css);
+@import url(../blocks/portfolio/__info/portfolio__info.css);
+@import url(../blocks/portfolio/__left-pointer/portfolio__left-pointer.css);
+@import url(../blocks/portfolio/__right-pointer/portfolio__right-pointer.css);
+@import url(../blocks/portfolio/__side-pointers/portfolio__side-pointers.css);
+@import url(../blocks/portfolio/__subtitle/portfolio__subtitle.css);
+@import url(../blocks/portfolio/__title/portfolio__title.css);
+@import url(../blocks/portfolio/__images-container/portfolio__images-container.css);
+@import url(../blocks/portfolio/__container/portfolio__container.css);
+@import url(../blocks/portfolio/__images/portfolio__images.css);
+@import url(../blocks/portfolio/__image/portfolio__image.css);
+@import url(../blocks/portfolio/__images-first-column/portfolio__images-first-column.css);
+@import url(../blocks/portfolio/__images-second-column/portfolio__images-second-column.css);
+@import url(../blocks/skill/__container/skill__container.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/portfolio/__info-container/portfolio__info-container.css);
+@import url(../blocks/portfolio/__iframe/portfolio__iframe.css);
+@import url(../blocks/portfolio/__projects/portfolio__projects.css);
+@import url(../blocks/dropdown/__button/dropdown__button.css);
+@import url(../blocks/dropdown/__item/dropdown__item.css);
+@import url(../blocks/dropdown/__link/dropdown__link.css);
+@import url(../blocks/dropdown/__list/dropdown__list.css);
+@import url(../blocks/dropdown/dropdown.css);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);

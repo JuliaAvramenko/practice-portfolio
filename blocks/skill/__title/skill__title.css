@@ -1,0 +1,15 @@
+.skill__title {
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+@media (max-width: 600px) {
+    .skill__title {
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+}

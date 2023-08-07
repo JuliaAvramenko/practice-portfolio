@@ -1,0 +1,18 @@
+.contact__title {
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+    padding-left: 165px;
+    padding-top: 93px;
+    margin-bottom: 51px;
+}
+
+@media (max-width: 600px) {
+    .contact__title {
+        padding-left: 0;
+        padding-top: 0;
+    }
+}

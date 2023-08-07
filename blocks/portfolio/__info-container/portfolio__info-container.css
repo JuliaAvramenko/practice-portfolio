@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    .portfolio__info-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+
+
+    }
+}

@@ -1,0 +1,14 @@
+.skill__table {
+    display: grid;
+    grid-template-columns: 123px 446px;
+    column-gap: 66px;
+    row-gap: 65px;
+}
+
+@media (max-width: 600px) {
+    .skill__table {
+        grid-template-columns: 82px 210px;
+        column-gap: 16px;
+        row-gap: 35px;
+    }
+}

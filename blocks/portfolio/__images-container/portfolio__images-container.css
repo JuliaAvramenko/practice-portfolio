@@ -1,0 +1,13 @@
+.portfolio__images-container {
+    display: flex;
+    column-gap: 30px;
+    margin-top: 180px;
+}
+
+@media (max-width: 600px) {
+    .portfolio__images-container {
+        margin-top: 0;
+        column-gap: 14px;
+
+    }
+}

@@ -1,0 +1,13 @@
+.dropdown__button {
+    background-color: brown;
+    color: white;
+
+    font-size: 16px;
+    border: none;
+}
+
+/* Изменение цвета фона кнопки раскрывающегося списка при отображении всплывающего содержимого */
+.dropdown__button:hover {
+    background-color: rgb(161, 71, 71);
+    cursor: pointer;
+}

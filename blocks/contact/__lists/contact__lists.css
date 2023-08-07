@@ -1,0 +1,14 @@
+.contact__lists {
+    display: flex;
+    margin-bottom: 95px;
+
+}
+
+@media (max-width: 600px) {
+    .contact__lists {
+        justify-content: space-between;
+        column-gap: 10px;
+
+        width: 370px;
+    }
+}

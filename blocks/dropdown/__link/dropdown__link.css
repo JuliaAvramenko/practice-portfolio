@@ -1,0 +1,14 @@
+/* Ссылки внутри всплывающего списка */
+.dropdown__link {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 5px 5px;
+
+}
+
+
+/* Изменение цвета всплывающих ссылок при наведении курсора */
+.dropdown__link:hover {
+    background-color: #ddd;
+}
