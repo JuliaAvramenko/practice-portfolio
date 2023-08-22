@@ -5,6 +5,10 @@
     padding-bottom: 145px;
     display: flex;
     column-gap: 125px;
+
+    background-color: #FFFAF2;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 @media (max-width: 600px) {
@@ -17,6 +21,7 @@
         align-items: center;
         justify-content: center;
         margin-bottom: 20px;
+        margin-top: 20px;
 
 
     }

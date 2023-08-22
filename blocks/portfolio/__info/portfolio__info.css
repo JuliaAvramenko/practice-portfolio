@@ -2,17 +2,14 @@
 
     display: flex;
     column-gap: 200px;
-
-
-
-
-
 }
 
 
 @media (max-width: 600px) {
     .portfolio__info {
         flex-direction: column;
-      
+        justify-content: center;
+        align-items: center;
+
     }
 }

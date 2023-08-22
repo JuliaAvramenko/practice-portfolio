@@ -1,9 +1,15 @@
+.portfolio__info-container {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
 @media (max-width: 600px) {
     .portfolio__info-container {
-        display: flex;
+
         align-items: center;
-        justify-content: center;
-        flex-direction: column;
+
+
 
 
 

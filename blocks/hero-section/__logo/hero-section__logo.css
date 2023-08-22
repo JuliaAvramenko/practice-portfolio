@@ -1,12 +1,12 @@
 .hero-section__logo {
     font-weight: 700;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 29px;
     color: #FFFFFF;
 }
 
 @media (max-width: 600px) {
     .hero-section__logo {
-        margin-bottom: 15px;
+        margin-bottom: 20px;
     }
 }

@@ -1,14 +1,16 @@
-/*.contact {
-    height: 528px;
+.contact {
+    background-color: #FFFAF2;
 
 
-}*/
+}
 
 @media (max-width: 600px) {
     .contact {
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
 
 
     }

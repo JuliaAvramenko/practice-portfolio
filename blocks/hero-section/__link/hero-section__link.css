@@ -7,6 +7,10 @@
     text-decoration: none;
 }
 
+.hero-section__link:hover {
+    color: #cfcfcf;
+}
+
 @media (max-width: 600px) {
     .hero-section__link {
         margin-bottom: 50px;

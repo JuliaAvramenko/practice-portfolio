@@ -36,13 +36,13 @@ let currentProject = null;
 
 const projects = [{
     header: "Mesto",
-    description: "Описание",
+    description: "Описание 1",
     link: "https://juliaavramenko.github.io/mesto-project-bootcamp/"
 
 }, {
     header: "How to learn",
     description: "Описание 2",
-    link: "https://google.com"
+    link: "https://juliaavramenko.github.io/how-to-learn-bootcamp/"
 }, {
     header: "Travel",
     description: "Описание 3",

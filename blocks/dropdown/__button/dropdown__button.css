@@ -1,13 +1,19 @@
 .dropdown__button {
-    background-color: brown;
-    color: white;
 
-    font-size: 16px;
+    background-color: #FFFAF2;
+    color: black;
+
     border: none;
+    width: 80px;
+    height: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
 }
 
 /* Изменение цвета фона кнопки раскрывающегося списка при отображении всплывающего содержимого */
 .dropdown__button:hover {
-    background-color: rgb(161, 71, 71);
+    background-color: #C66C49;
+    color: white;
     cursor: pointer;
 }
